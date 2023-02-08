@@ -9,4 +9,6 @@ button{
     position:relative;
     left:47%;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
