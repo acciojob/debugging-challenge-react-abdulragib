@@ -6,7 +6,7 @@ h1 {
 
 button{
     color: #27aedb;
+    position:relative;
+    left:47%;
     text-align: center;
-    justify-content: center;
-    align-items: center;
 }
